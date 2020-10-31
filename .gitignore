@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .cache-22blfxzqxsdb7puge77ioamkq
+*.json
