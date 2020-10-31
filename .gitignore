@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .cache-22blfxzqxsdb7puge77ioamkq
 *.json
+*.csv
